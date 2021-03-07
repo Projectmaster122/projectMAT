@@ -1,0 +1,16 @@
+D:\vsproj\PMOS\PMOS\bin\Debug\net5.0\PMOS.exe
+D:\vsproj\PMOS\PMOS\bin\Debug\net5.0\PMOS.deps.json
+D:\vsproj\PMOS\PMOS\bin\Debug\net5.0\PMOS.runtimeconfig.json
+D:\vsproj\PMOS\PMOS\bin\Debug\net5.0\PMOS.runtimeconfig.dev.json
+D:\vsproj\PMOS\PMOS\bin\Debug\net5.0\PMOS.dll
+D:\vsproj\PMOS\PMOS\bin\Debug\net5.0\ref\PMOS.dll
+D:\vsproj\PMOS\PMOS\bin\Debug\net5.0\PMOS.pdb
+D:\vsproj\PMOS\PMOS\obj\Debug\net5.0\PMOS.csprojAssemblyReference.cache
+D:\vsproj\PMOS\PMOS\obj\Debug\net5.0\PMOS.GeneratedMSBuildEditorConfig.editorconfig
+D:\vsproj\PMOS\PMOS\obj\Debug\net5.0\PMOS.AssemblyInfoInputs.cache
+D:\vsproj\PMOS\PMOS\obj\Debug\net5.0\PMOS.AssemblyInfo.cs
+D:\vsproj\PMOS\PMOS\obj\Debug\net5.0\PMOS.csproj.CoreCompileInputs.cache
+D:\vsproj\PMOS\PMOS\obj\Debug\net5.0\PMOS.dll
+D:\vsproj\PMOS\PMOS\obj\Debug\net5.0\ref\PMOS.dll
+D:\vsproj\PMOS\PMOS\obj\Debug\net5.0\PMOS.pdb
+D:\vsproj\PMOS\PMOS\obj\Debug\net5.0\PMOS.genruntimeconfig.cache
